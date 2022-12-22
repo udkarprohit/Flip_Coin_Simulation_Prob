@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-#Use Case-1 Random Tail or heads 
+#Use Case-1 Random Tail or heads  
 
 x=$((RANDOM%2));	#0 1 Random number
 #echo $x;
